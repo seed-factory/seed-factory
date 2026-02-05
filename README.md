@@ -27,6 +27,3 @@ No red tape. Clear deadlines. No surprises.
 - **Telegram:** [@seedfactory](https://t.me/seedfactory)
 - **Email:** [hello@seed-factory.com](mailto:hello@seed-factory.com)
 
-# seed-factory
-# seed-factory
-# seed-factory
